@@ -1,3 +1,1 @@
-**This was made for learning purposes.**
-- This will keep running for ever.
-- There are bugs.
+**This was made for educational purpose.**
